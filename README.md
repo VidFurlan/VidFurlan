@@ -1,4 +1,4 @@
-<style>
+<foreignObject>
     .card-holder {
         display: grid;
         justify-items: center;
@@ -29,7 +29,7 @@
     .card * {
         list-style: circle;
     }
-</style>
+</foreignObject>
 
 <h2 align="center">Stuff I do and know:</h2>
 
