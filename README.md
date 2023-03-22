@@ -1,4 +1,4 @@
-<foreignObject>
+<!-- <foreignObject>
     .card-holder {
         display: grid;
         justify-items: center;
