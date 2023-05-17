@@ -1,5 +1,7 @@
 ## **🌍 Hello, World! I'm Vid!**
 I like to do pointless stuff and learn meaningles things. <br>
+
+---
 ## **🔧 Working on:**
 
 #### [🌿 Moistymeter (plant monitoring system)](https://github.com/VidFurlan/Moistymeter)
