@@ -1,4 +1,4 @@
-## **Hello, World! I'm Vid!**
+## **Hello World! I'm Vid!**
 Hmm... Not much to say really.
 <br>
     
@@ -12,7 +12,6 @@ Hmm... Not much to say really.
 <br>
 
 ## 🔧 Stuff I Do/Did:
-#### [🌿 Moistymeter (plant monitoring system)](https://github.com/VidFurlan/Moistymeter)
 #### [🌐 My website](https://github.com/VidFurlan/VidFurlan.github.io)
 #### [🎓 My Arch Dotfiles](https://github.com/VidFurlan/Dotfiles)
 
