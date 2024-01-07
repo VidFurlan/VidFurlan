@@ -1,4 +1,4 @@
-## **Hello World! I'm Vid!**
+## **Hello World!**
 Hmm... Not much to say really.
 <br>
     
@@ -16,7 +16,10 @@ Hmm... Not much to say really.
 
 <br>
 
-## Leetcode:
-![LeetCode Stats](https://leetcode.card.workers.dev/VidFurlan?theme=auto&font=baloo&extension=null)
+## Stats:
 
-<br><br>
+### Github:
+![vidfurlan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidfurlan&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+### Leetcode:
+![Leetcode Stats](https://leetcard.jacoblin.cool/vidfurlan?ext=heatmap)
