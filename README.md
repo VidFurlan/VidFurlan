@@ -17,7 +17,7 @@ Hmm... Not much to say really.
 <br>
 
 ## 📦 Projects and stuff i do:
-- **[🏔️ Voxel3d](https://github.com/VidFurlan)** - A procedural voxel world
+- **[🏔️ Voxel3d](https://github.com/VidFurlan/Voxel3d)** - A procedural voxel world
 - **[📁 Dotfiles](https://github.com/VidFurlan/Dotfiles)** - Config files for my Linux install 
 - **[🌐 Personal website](https://vidfurlan.github.io/)** - A VERY shitty website
 - **Competitive Programming** - I suck
