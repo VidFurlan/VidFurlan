@@ -20,9 +20,10 @@ Hmm... Not much to say really.
 - **[🏔️ Voxel3d](https://github.com/VidFurlan/Voxel3d)** - A procedural voxel world
 - **[📁 Dotfiles](https://github.com/VidFurlan/Dotfiles)** - Config files for my Linux install 
 - **[🌐 Personal website](https://vidfurlan.github.io/)** - A VERY shitty website
-- **Competitive Programming** - I suck
-    - **[🎓 Codeforces - vidfurlan](https://codeforces.com/profile/vidfurlan)**
-    - **[🎓 Leetcode - VidFurlan](https://leetcode.com/VidFurlan/)**
+- **🎓 Competitive Programming** - I suck
+    - **[Codeforces - vidfurlan](https://codeforces.com/profile/vidfurlan)**
+    - **[Atcoder - vidfurlan](https://atcoder.jp/users/vidfurlan)**
+    - **[Leetcode - VidFurlan](https://leetcode.com/VidFurlan/)**
 
 ### Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vidfurlan?ext=heatmap)
